@@ -1,0 +1,15 @@
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\bin\Debug\net6.0\CharacterGeneratorRPG.exe
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\bin\Debug\net6.0\CharacterGeneratorRPG.deps.json
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\bin\Debug\net6.0\CharacterGeneratorRPG.runtimeconfig.json
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\bin\Debug\net6.0\CharacterGeneratorRPG.dll
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\bin\Debug\net6.0\CharacterGeneratorRPG.pdb
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.csproj.AssemblyReference.cache
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.AssemblyInfoInputs.cache
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.AssemblyInfo.cs
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.csproj.CoreCompileInputs.cache
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.dll
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\refint\CharacterGeneratorRPG.dll
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.pdb
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\CharacterGeneratorRPG.genruntimeconfig.cache
+C:\Users\amein\source\repos\CharacterGeneratorRPG\CharacterGeneratorRPG\obj\Debug\net6.0\ref\CharacterGeneratorRPG.dll
